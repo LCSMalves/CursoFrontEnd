@@ -9,5 +9,10 @@ h1 {
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+}
+
+body {
+    font-size: 18px;
 }
 
