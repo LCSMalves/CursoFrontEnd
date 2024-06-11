@@ -1,2 +1,3 @@
 # CursoFrontEnd
-Códigos do curso de FrontEnd
+
+Códigos utilizados e aprendidos no curso de FrontEnd da Udeny
